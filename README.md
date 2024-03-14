@@ -127,6 +127,12 @@ Execute the program using runserver command.
 </html>
 ```
 
+
+
+
+
+
+
 ## OUTPUT
 ![alt text](slot.png)
 
